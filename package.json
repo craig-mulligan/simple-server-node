@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/resin-io-projects/simple-server-node#readme",
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "serialport": "5.0.0"
   }
 }
